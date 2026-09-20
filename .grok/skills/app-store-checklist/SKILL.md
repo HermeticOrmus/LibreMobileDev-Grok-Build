@@ -84,7 +84,7 @@ Fail: "just tap around." Fail: pasting a production token. Fail: hiding a login 
 | Check | Pass | Fail |
 |-------|------|------|
 | Gate | RC meets your crash-free or ANR bar on the devices you ship | "We'll watch it in prod" with no number |
-| Symbolication | Crash reports will be readable | Bitcode/dSYM/mapping missing, unverified |
+| Symbolication | Crash reports will be readable | dSYM / Play mapping file missing, unverified |
 | Rollback | Phased / staged; previous live build retained | 100% flip with no prior binary |
 | Store flags | Age rating, export, encryption answers match the app | Copy-pasted yes/no you did not check |
 

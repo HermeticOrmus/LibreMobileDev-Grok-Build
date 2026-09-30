@@ -7,15 +7,15 @@
 
 ## How to use this suite
 
-1. Install skills (see [QUICK_START.md](./QUICK_START.md)).
+1. Install the marketplace (see [QUICK_START.md](./QUICK_START.md)): the `libre-mobiledev-grok` plugin plus the LibreMobileDev-Claude-Code plugins you need.
 2. Keep Reality OS as the global doctrine layer.
-3. Use suite skills for MobileDev; use `AGENTS/mobile-orchestrator.md` when a full multi-pillar pass is needed.
+3. Use suite skills for MobileDev; use `stubs/agents/mobile-orchestrator.md` (stub coordinator, not installed) when a full multi-pillar pass is needed.
 
 ## Agents in this repo
 
 | Agent | File | Role |
 |-------|------|------|
-| mobile-orchestrator | `AGENTS/mobile-orchestrator.md` | Coordinates Flutter/RN patterns, offline, push, deep links, a11y, store checklist into one mobile pass |
+| mobile-orchestrator | `stubs/agents/mobile-orchestrator.md` (stub; not installed) | Coordinates Flutter/RN patterns, offline, push, deep links, a11y, store checklist into one mobile pass |
 
 Project-level `AGENTS.md` in a consumer repo wins for project rules; this file is suite guidance.
 

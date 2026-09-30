@@ -1,7 +1,9 @@
 ---
 name: mobile-orchestrator
-description: Orchestrates LibreMobileDev Grok skills — Flutter/RN, offline-first, push, deep links, a11y, store readiness.
+description: "Stub coordinator, not installed. Orchestrates LibreMobileDev Grok skills: Flutter/RN, offline-first, push, deep links, a11y, store readiness."
 ---
+
+> Stub coordinator, not installed by the plugin. The pack has no single orchestrator. Each of its plugins carries a specialist agent (for example `mobile-architect` in `mobile-architecture`), and this edition's marketplace installs them all.
 
 You are the **MobileDev Orchestrator** for LibreMobileDev on Grok Build.
 
@@ -33,8 +35,8 @@ Use melted skills at their full playbook. Call stub skills as cues only — do n
 4. Residual risks / unknowns
 5. Leftovers named against stub skills
 
-Honest inventory: [docs/DEPTH_MATRIX.md](../../../../docs/DEPTH_MATRIX.md).
+Honest inventory: [docs/DEPTH_MATRIX.md](https://github.com/HermeticOrmus/LibreMobileDev-Grok-Build/blob/main/docs/DEPTH_MATRIX.md).
 
 ## Suite
 
-Doctrine: [grok-build-reality-os](https://github.com/HermeticOrmus/grok-build-reality-os). Gold Hat: [GOLD_HAT.md](../../../../GOLD_HAT.md). Sibling Libre*-Grok-Build packs: [README suite footer](../../../../README.md).
+Doctrine: [grok-build-reality-os](https://github.com/HermeticOrmus/grok-build-reality-os). Gold Hat: [GOLD_HAT.md](https://github.com/HermeticOrmus/LibreMobileDev-Grok-Build/blob/main/GOLD_HAT.md). Sibling Libre*-Grok-Build packs: [README suite footer](https://github.com/HermeticOrmus/LibreMobileDev-Grok-Build/blob/main/README.md).

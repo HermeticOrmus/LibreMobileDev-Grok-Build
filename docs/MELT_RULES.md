@@ -8,4 +8,4 @@
 6. Honest depth counts (`stub` vs `melted` in DEPTH_MATRIX — never Claude totals). Melted means L3–L4 playbook, not L5 automation.
 7. Suite footer → Reality OS + sibling Libre*-Grok-Build packs.
 8. No dumb clone.
-9. `skills/` is canonical; `.grok/skills/` is the dogfood copy and must match.
+9. `plugins/libre-mobiledev-grok/skills/` (melted) and `stubs/skills/` (stubs) are canonical; `.grok/skills/` is the dogfood copy and must match. Stubs never ship in the plugin.

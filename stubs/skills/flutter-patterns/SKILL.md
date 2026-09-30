@@ -5,7 +5,7 @@ description: "Stub cue, not installed. Flutter composition, state, navigation, p
 
 # Flutter Patterns
 
-> Stub, not installed by the plugin. The real depth is the [`flutter-development`](https://github.com/HermeticOrmus/LibreMobileDev-Claude-Code/tree/main/plugins/flutter-development) plugin of LibreMobileDev-Claude-Code, which this edition's marketplace installs: `grok plugin install flutter-development@libre-mobiledev-grok`.
+> Stub, not installed by the plugin. The real depth is the [`flutter-development`](https://github.com/HermeticOrmus/LibreMobileDev-Claude-Code/tree/main/plugins/flutter-development) plugin of LibreMobileDev-Claude-Code, which this edition's marketplace installs: `grok plugin install flutter-development@LibreMobileDev-Grok-Build`.
 
 Flutter composition, state, navigation, platform channels.
 

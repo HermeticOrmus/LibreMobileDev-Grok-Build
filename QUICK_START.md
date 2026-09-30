@@ -37,15 +37,17 @@ One marketplace brings the Grok-native plugin and every LibreMobileDev-Claude-Co
 
 ```bash
 grok plugin marketplace add HermeticOrmus/LibreMobileDev-Grok-Build
-grok plugin install libre-mobiledev-grok@libre-mobiledev-grok
-grok plugin install flutter-development@libre-mobiledev-grok
+grok plugin install libre-mobiledev-grok@LibreMobileDev-Grok-Build
+grok plugin install flutter-development@LibreMobileDev-Grok-Build
 ```
+
+Grok registers a marketplace added from GitHub under the repo's name, so the part after `@` is `LibreMobileDev-Grok-Build`, not the manifest name `libre-mobiledev-grok`. A bare plugin name also works when no other marketplace you added has a plugin by that name.
 
 Every entry at once (needs `jq`):
 
 ```bash
 for p in $(curl -fsSL https://raw.githubusercontent.com/HermeticOrmus/LibreMobileDev-Grok-Build/main/.grok-plugin/marketplace.json | jq -r '.plugins[].name'); do
-  grok plugin install "$p@libre-mobiledev-grok"
+  grok plugin install "$p@LibreMobileDev-Grok-Build"
 done
 ```
 

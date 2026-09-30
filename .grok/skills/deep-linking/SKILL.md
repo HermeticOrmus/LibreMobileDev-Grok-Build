@@ -5,7 +5,7 @@ description: "Stub cue, not installed. Universal links / app links / custom sche
 
 # Deep Linking
 
-> Stub, not installed by the plugin. The real depth is the [`deep-linking`](https://github.com/HermeticOrmus/LibreMobileDev-Claude-Code/tree/main/plugins/deep-linking) plugin of LibreMobileDev-Claude-Code, which this edition's marketplace installs: `grok plugin install deep-linking@libre-mobiledev-grok`.
+> Stub, not installed by the plugin. The real depth is the [`deep-linking`](https://github.com/HermeticOrmus/LibreMobileDev-Claude-Code/tree/main/plugins/deep-linking) plugin of LibreMobileDev-Claude-Code, which this edition's marketplace installs: `grok plugin install deep-linking@LibreMobileDev-Grok-Build`.
 
 Universal links / app links / custom schemes — routing safely.
 

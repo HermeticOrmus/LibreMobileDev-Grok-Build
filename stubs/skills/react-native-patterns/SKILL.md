@@ -5,7 +5,7 @@ description: "Stub cue, not installed. RN patterns: navigation, native modules, 
 
 # React Native Patterns
 
-> Stub, not installed by the plugin. The real depth is the [`react-native`](https://github.com/HermeticOrmus/LibreMobileDev-Claude-Code/tree/main/plugins/react-native) plugin of LibreMobileDev-Claude-Code, which this edition's marketplace installs: `grok plugin install react-native@libre-mobiledev-grok`.
+> Stub, not installed by the plugin. The real depth is the [`react-native`](https://github.com/HermeticOrmus/LibreMobileDev-Claude-Code/tree/main/plugins/react-native) plugin of LibreMobileDev-Claude-Code, which this edition's marketplace installs: `grok plugin install react-native@LibreMobileDev-Grok-Build`.
 
 RN patterns: navigation, native modules, New Architecture cues.
 

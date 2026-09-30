@@ -5,7 +5,7 @@ description: "Stub cue, not installed. Startup, jank, memory, binary size budget
 
 # Mobile Perf
 
-> Stub, not installed by the plugin. The real depth is the [`mobile-performance`](https://github.com/HermeticOrmus/LibreMobileDev-Claude-Code/tree/main/plugins/mobile-performance) plugin of LibreMobileDev-Claude-Code, which this edition's marketplace installs: `grok plugin install mobile-performance@libre-mobiledev-grok`.
+> Stub, not installed by the plugin. The real depth is the [`mobile-performance`](https://github.com/HermeticOrmus/LibreMobileDev-Claude-Code/tree/main/plugins/mobile-performance) plugin of LibreMobileDev-Claude-Code, which this edition's marketplace installs: `grok plugin install mobile-performance@LibreMobileDev-Grok-Build`.
 
 Startup, jank, memory, binary size budgets.
 

@@ -12,7 +12,7 @@ The Grok-native layer of [LibreMobileDev-Grok-Build](https://github.com/Hermetic
 
 ```bash
 grok plugin marketplace add HermeticOrmus/LibreMobileDev-Grok-Build
-grok plugin install libre-mobiledev-grok@libre-mobiledev-grok
+grok plugin install libre-mobiledev-grok@LibreMobileDev-Grok-Build
 ```
 
 The same marketplace offers every LibreMobileDev-Claude-Code plugin, pinned by commit.

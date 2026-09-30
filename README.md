@@ -32,9 +32,9 @@ See [QUICK_START.md](./QUICK_START.md) for the marketplace, dogfood, and copy pa
 
 ```bash
 grok plugin marketplace add HermeticOrmus/LibreMobileDev-Grok-Build
-grok plugin install libre-mobiledev-grok@libre-mobiledev-grok
+grok plugin install libre-mobiledev-grok@LibreMobileDev-Grok-Build
 # Any pack plugin, pinned by commit, for example:
-grok plugin install flutter-development@libre-mobiledev-grok
+grok plugin install flutter-development@LibreMobileDev-Grok-Build
 grok plugin list
 ```
 

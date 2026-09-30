@@ -1,0 +1,20 @@
+{
+  "name": "libre-mobiledev-grok",
+  "version": "1.0.0",
+  "description": "Grok-native mobile skills: mobile-a11y for screen reader, target and contrast checks, app-store-checklist for the submit gate, offline-first for local source of truth and a named conflict policy.",
+  "author": {
+    "name": "Diego Bodart",
+    "url": "https://github.com/HermeticOrmus"
+  },
+  "homepage": "https://github.com/HermeticOrmus/LibreMobileDev-Grok-Build",
+  "repository": "https://github.com/HermeticOrmus/LibreMobileDev-Grok-Build",
+  "license": "MIT",
+  "keywords": [
+    "mobile",
+    "accessibility",
+    "app-store",
+    "offline-first",
+    "flutter",
+    "grok-build"
+  ]
+}
